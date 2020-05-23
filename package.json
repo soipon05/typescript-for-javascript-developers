@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/soipon05/typescript-for-javascript-developers#readme",
   "devDependencies": {
+    "ts-node": "^8.10.1",
     "typescript": "^3.9.2"
   }
 }
